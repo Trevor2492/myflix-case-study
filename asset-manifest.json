@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myflix-case-study/static/css/main.276b0ba3.chunk.css",
+    "main.js": "/myflix-case-study/static/js/main.cb5eec99.chunk.js",
+    "main.js.map": "/myflix-case-study/static/js/main.cb5eec99.chunk.js.map",
+    "runtime-main.js": "/myflix-case-study/static/js/runtime-main.1c44e1c7.js",
+    "runtime-main.js.map": "/myflix-case-study/static/js/runtime-main.1c44e1c7.js.map",
+    "static/js/2.77257a8e.chunk.js": "/myflix-case-study/static/js/2.77257a8e.chunk.js",
+    "static/js/2.77257a8e.chunk.js.map": "/myflix-case-study/static/js/2.77257a8e.chunk.js.map",
+    "static/js/3.549965c5.chunk.js": "/myflix-case-study/static/js/3.549965c5.chunk.js",
+    "static/js/3.549965c5.chunk.js.map": "/myflix-case-study/static/js/3.549965c5.chunk.js.map",
+    "index.html": "/myflix-case-study/index.html",
+    "static/css/main.276b0ba3.chunk.css.map": "/myflix-case-study/static/css/main.276b0ba3.chunk.css.map",
+    "static/js/2.77257a8e.chunk.js.LICENSE.txt": "/myflix-case-study/static/js/2.77257a8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c44e1c7.js",
+    "static/js/2.77257a8e.chunk.js",
+    "static/css/main.276b0ba3.chunk.css",
+    "static/js/main.cb5eec99.chunk.js"
+  ]
+}
