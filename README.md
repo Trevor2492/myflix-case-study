@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## See it in Action here
+
+https://trevor2492.github.io/myflix-case-study/
+
 ## Available Scripts
 
 In the project directory, you can run:
