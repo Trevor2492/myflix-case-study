@@ -37,7 +37,7 @@ function App() {
             </Typography>
           </Grid>
           <Grid item xs={12} sm={6}>
-              <img src='/main.png' alt='main'></img>
+              <img src={process.env.PUBLIC_URL + '/main.png'} alt='main'></img>
           </Grid>
         </Grid>
 
@@ -51,7 +51,7 @@ function App() {
 
         <Grid container spacing={5}>
           <Grid item xs={12} sm={6}>
-            <img src='/postman.png' alt='main'></img>
+            <img src={process.env.PUBLIC_URL + '/postman.png'} alt='postman'></img>
           </Grid>
           <Grid item xs={12} sm={6}>
             <Typography variant='h5' gutterBottom>
@@ -87,7 +87,7 @@ function App() {
             </Typography>
           </Grid>
           <Grid item xs={12} sm={6}>
-            <img src='/movies.png' alt='main'></img>
+            <img src={process.env.PUBLIC_URL + '/movies.png'} alt='movies'></img>
           </Grid>
         </Grid>
 
