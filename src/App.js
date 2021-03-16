@@ -108,6 +108,14 @@ function App() {
           </Grid>
         </Grid>
 
+        <Grid container className='demo-text' spacing={3}>
+          <Grid item xs={12}>
+            To use the Demo below use the following login information: <br /><br />
+            Username: DemoUser<br />
+            Password: Password
+          </Grid>
+        </Grid>
+
         <div className='buttons'>
           <div className='button'>
             <Button variant='contained' color='primary' href='https://myflix-app.netlify.app' target='blank'>

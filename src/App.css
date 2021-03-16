@@ -18,6 +18,11 @@ img {
   box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.199);
 }
 
+.demo-text {
+  text-align: center;
+  font-weight: bold;
+}
+
 .buttons {
   display: flex;
   flex-direction: row;
